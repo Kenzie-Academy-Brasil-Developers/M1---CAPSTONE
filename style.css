@@ -132,8 +132,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     width: 400px;
-    height: 450px;
-
+    height: 500px;
 }
 
 input {
@@ -179,7 +178,6 @@ input {
     display: flex;
     flex-direction: column;
     width: 360px;
-    height: 250px;
     margin-left: 34px;
     background-color: #f1f1f1;
     align-items: center;
