@@ -178,6 +178,7 @@ input {
     display: flex;
     flex-direction: column;
     width: 360px;
+    height: 300px;
     margin-left: 34px;
     background-color: #f1f1f1;
     align-items: center;
@@ -260,6 +261,7 @@ input {
 
 .descricao-produto-carrinho {
     display: flex;
+    width: 150px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
